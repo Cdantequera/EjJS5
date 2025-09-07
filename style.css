@@ -1,0 +1,23 @@
+
+        /* Estilo para ocultar los contenedores de los ejercicios */
+        .contenedor-ejercicio {
+            display: none;
+        }
+        body {
+            background-color: #f0f2f5;
+        }
+        .navbar {
+            margin-bottom: 2rem;
+        }
+        .card {
+            margin-top: 2rem;
+        }
+        .reloj-digital, .cronometro-display, .temporizador-display {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 2.5rem;
+            background-color: #333;
+            color: #28a745;
+            padding: 1rem;
+            border-radius: 5px;
+            text-align: center;
+        }
